@@ -11,7 +11,8 @@ You are free to:
 - **Share** — copy and redistribute the material in any medium or format
 
 Under the following terms:
-- **Attribution** — You must give appropriate credit to **Hostir** (e.g., "Hostir™ logo by Harshvardhan Kumar"), provide a link to this repository and to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Hostir endorses you or your use.
+- **Attribution** — You must give appropriate credit to **Hostir** (e.g., "Hostir™ logo"), provide a link to this repository and to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Hostir endorses you or your use.
+- Donot consider the assets provided as own intellectual property. It is Hostir's intellectual property. Always reffer these assest for hostir and must only for reference of Hostir™. User cannot use to refer it's own Bussiness/organization.
 - **NoDerivatives** — If you remix, transform, or build upon the material, you may **not** distribute the modified material.
 
 **Full license text**: [LICENSE](./LICENSE) file  
