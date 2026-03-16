@@ -1,4 +1,5 @@
-Trademark Guidelines
+### Trademark Guidelines
+
 You may use our brand assets for personal use, content creation, and research. However, there are some restrictions on how you can use our name and logos.
 
 Commercial Use: Any commercial use of our logos or name requires prior written approval or a formal affiliation agreement with Hostir™.
