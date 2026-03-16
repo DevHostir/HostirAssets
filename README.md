@@ -1,6 +1,6 @@
 # Hostir Brand Assets
 
-This repository contains free brand assets for **Hostir™** (logo in, but not limited, SVG/PNG/JPNG, color palette, icons, typography guidelines, etc.)
+This repository contains free brand assets for **Hostir™** (logo in, but not limited, SVG/PNG/JPG, color palette, icons, typography guidelines, etc.)
 
 These assets are released for **personal, non-commercial, community and educational use only**.
 
@@ -20,7 +20,7 @@ Under the following terms:
 
 ### Important Trademark & Copyright Notice
 - The name **Hostir™**, the logo, and all associated brand elements are protected under trademark law (™ symbol indicates common-law trademark claim) and copyright law © 2026 Hostir™.
-- **Hostir** is not yet a formally registered company or trademark. The ™ symbol is used to assert existing rights and intent to register in the future.
+- **Hostir** may not a formally registered company or trademark. The ™ symbol is used to assert existing rights and intent to register in the future.
 - **No commercial or business use** (including but not limited to: selling products/merchandise with the logo, using in apps/websites for profit, rebranding, affiliate marketing, paid promotions, etc.) is allowed **without explicit written affiliation or partnership agreement** from the owner.
 - Any use that may cause confusion with the official Hostir service, imply official endorsement, or dilute the brand is strictly prohibited.
 
